@@ -1,0 +1,78 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@xiaohai160 
+springframeworkguru
+/
+spring5-jokes-app-v2
+Public
+Code
+Issues
+5
+Pull requests
+6
+Actions
+Projects
+Wiki
+Security
+Insights
+spring5-jokes-app-v2/.gitignore
+@springframeworkguru
+springframeworkguru initial add from Spring Initilizr. Closes #1
+Latest commit 74b0e97 on 23 Jan 2021
+ History
+ 1 contributor
+33 lines (29 sloc)  395 Bytes
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You have no unread notifications
